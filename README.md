@@ -29,6 +29,10 @@
    - Year Slicer – Applied silently to filter all visuals
    - Continent Slicer – Used to drive consistent geographic-level analysis across visuals
    - Back Navigation button
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd75f6e5-c634-4f92-ab57-5f4bc52caeab" width="600" height="300" alt="image" />
+</p>
+     
 ### 2. Product Details:
 - 🔍 Dynamic Product Drillthrough
    - Automatically displays selected product details from the Performance Overview matrix via drillthrough.
@@ -57,6 +61,10 @@
    - Interactive Buttons allow:
       - Seamless page transitions and Reset Filter button available to restore default view instantly
       - Back button to return to Performance Overview
+<p align="center">
+    <img width="600" height="300" alt="Screenshot 2025-07-27 202544" src="https://github.com/user-attachments/assets/a950c2f7-241b-4d11-907e-2f247ee7c206" />
+</p>
+
 ### 3. Customer Detail:
 - 📌 Customer Overview Cards
     - Unique Customers Count
@@ -96,6 +104,10 @@
   - Navigation Buttons for:
       - Smooth transitions
       - Back to previous page
+<p align="center">
+   <img width="600" height="300" alt="Screenshot 2025-07-27 202711" src="https://github.com/user-attachments/assets/9289b6db-c114-43bc-94e7-97450cc1115c" />
+</p>
+
 ### 4. Map:
 - 🌍 Interactive Sales Map
     - Grayscale World Map visual
@@ -111,6 +123,10 @@
 - 🔁 Smooth Page Navigation
      - Reset Filters – Clears applied filters instantly
      - Interactive buttons improve overall user experience
+<p align="center">
+  <img width="600" height="300" alt="Screenshot 2025-07-27 202834" src="https://github.com/user-attachments/assets/15aa397b-3bf4-402c-ae97-fec5144999ad" />
+</p>
+
 ### 5. Decomposition Tree:
 - 🔍 Root-Cause Analysis of Total Orders
    - Used Decomposition Tree visual to break down Total Orders across hierarchical dimensions:
@@ -127,6 +143,10 @@
 - 🔁 Smooth Page Navigation
    - Reset Filters – Clears applied filters instantly
    - Interactive buttons improve overall user experience
+<p align="center">
+  <img width="600" height="300" alt="Screenshot 2025-07-27 202955" src="https://github.com/user-attachments/assets/ce053700-f3ef-4295-8cec-549fa06b90d3" />
+</p>
+
 ### 6. Key Influencers:
 - 🧠 AI-Powered Insight Generation - Leveraged Key Influencers Visual in Power BI to uncover patterns and drivers behind key metrics.
 - 🔍 1. Home Ownership Analysis
@@ -145,6 +165,10 @@
 - 🔁 Smooth Page Navigation
   - Navigation Button included for seamless interaction
   - Reset button helps revert back to original influencer view
+  <p align="center">
+  <img width="600" height="300" alt="Screenshot 2025-07-27 203023" src="https://github.com/user-attachments/assets/ff37ed45-d165-4f16-94a4-5ecc38468150" />
+  </p>
+
 ### 7. Category Tooltip: 
 A dedicated tooltip page designed to enrich the user experience with on-hover insights for each product category.
 - 📊 Area Chart – Displays Weekly Orders Trend for the selected category, helping identify short-term patterns or spikes.
@@ -158,6 +182,10 @@ A dedicated tooltip page designed to enrich the user experience with on-hover in
    - Provides instant context while hovering over visual elements on bars in "Orders by Category".
    - Enables data-driven decision-making without navigating to another page.
    - Enhances the interactivity and user-friendliness of the report.
+<p align="center">
+  <img width="358" height="233" alt="Screenshot 2025-07-27 203052" src="https://github.com/user-attachments/assets/cd29d7ca-5f53-4583-94da-9226f11b1a94" />
+</p>
+
 # Pages Included:
 | **Page Name**                | **Purpose**                                                                                                                                                                           |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
